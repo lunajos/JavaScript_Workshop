@@ -1,0 +1,19 @@
+{
+  "name": "javascript_workshop",
+  "version": "1.0.0",
+  "description": "A JavsScript Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunajos/JavaScript_Workshop.git"
+  },
+  "author": "Jose L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunajos/JavaScript_Workshop/issues"
+  },
+  "homepage": "https://github.com/lunajos/JavaScript_Workshop#readme"
+}
